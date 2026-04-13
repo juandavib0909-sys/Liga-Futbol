@@ -1,0 +1,10 @@
+liga=Liga De Localidades
+victoria=3
+empate=1
+derrota=0
+equipo=Engativa
+equipo=Suba
+equipo=Usme
+equipo=Kennedy
+equipo=Usaquen
+equipo=Chapinero
